@@ -1,0 +1,12 @@
+#title {
+    text-align: center;
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(199, 181, 221);
+}
+.links{
+    font-size: 24px;
+    color:white
+}
